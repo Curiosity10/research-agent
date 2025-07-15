@@ -1,0 +1,6 @@
+.env
+.gemini/
+venv/
+logs.txt
+chroma_db/
+/report*

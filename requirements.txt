@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+requests
+requests-html
+trafilatura
+chromadb
+langchain-chroma
+python-dotenv
+tiktoken
+lxml[html_clean]
+lxml_html_clean
